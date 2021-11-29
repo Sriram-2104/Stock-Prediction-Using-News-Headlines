@@ -1,0 +1,4 @@
+-pandas
+-numpy
+-sklearn.feature_extraction.text  to import CountVectorizer
+-sklearn.ensemble to import RandomForestClassifier
